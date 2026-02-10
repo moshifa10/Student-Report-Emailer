@@ -1,0 +1,8 @@
+Hi [Name],
+
+Your average score is [Score].
+Grade: [grade]
+
+Excellent work [Name], Keep it up just like that.
+
+from Njabs
